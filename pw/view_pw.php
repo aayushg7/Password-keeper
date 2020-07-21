@@ -14,7 +14,7 @@ include("./includes/connection.php");?>
 						?>
 						<a>
 							<div>
-								<span><?php echo $count.") ".$rs['ngo_name']; ?></span>
+								<span><?php echo $count.") ".$rs['name']; ?></span>
 							</div>
 						</a>
 						<?php
